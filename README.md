@@ -1,3 +1,6 @@
+
+![Alt Text](https://github.com/RittheGit/my-images/blob/main/AirBnB.png?raw=true)
+
 # Data Viz Project
 
 # AirBnB-Dataset
